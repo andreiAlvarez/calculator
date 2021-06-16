@@ -1,7 +1,6 @@
 # Fully functional JavaScript calculator with only JavaScript
-![Calculator](https://github.com/andreiAlvarez/calculator/blob/main/calculatorOne.png?raw=true)
-
 [Live Demo](https://smart-calculator-andrew.herokuapp.com/)
+![Calculator](https://github.com/andreiAlvarez/calculator/blob/main/calculatorOne.png?raw=true)
 
 ## Project features: 
 
